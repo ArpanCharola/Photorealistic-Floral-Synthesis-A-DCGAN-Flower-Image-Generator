@@ -34,4 +34,4 @@ Matplotlib
 Scikit-learn
 
 👨‍💻 Author
-Arpan Charola
+Arpan Charola & Keval Parmar 
