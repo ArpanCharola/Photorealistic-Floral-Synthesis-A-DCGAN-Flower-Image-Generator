@@ -107,10 +107,6 @@ dcgan-flowers/
 
 ```
 
-## 👥 Team
-**Arpan Charola** 
-**Keval Parmar** | **Krish Vyas** | **Parth Lad** | **Rahul Karetha** [web:8]
-
 ## 📈 Results Preview
 Generated samples showcase realistic petals, lighting, and flower diversity after 100+ epochs. Check `generated_images/` folder. [web:8][web:11]
 
