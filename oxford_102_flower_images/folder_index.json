@@ -1,0 +1,716 @@
+[
+  {
+    "class_id": 0,
+    "category": 1,
+    "name": "pink primrose",
+    "folder": "pink_primrose",
+    "num_images": 40
+  },
+  {
+    "class_id": 1,
+    "category": 2,
+    "name": "hard-leaved pocket orchid",
+    "folder": "hard-leaved_pocket_orchid",
+    "num_images": 60
+  },
+  {
+    "class_id": 2,
+    "category": 3,
+    "name": "canterbury bells",
+    "folder": "canterbury_bells",
+    "num_images": 40
+  },
+  {
+    "class_id": 3,
+    "category": 4,
+    "name": "sweet pea",
+    "folder": "sweet_pea",
+    "num_images": 56
+  },
+  {
+    "class_id": 4,
+    "category": 5,
+    "name": "english marigold",
+    "folder": "english_marigold",
+    "num_images": 65
+  },
+  {
+    "class_id": 5,
+    "category": 6,
+    "name": "tiger lily",
+    "folder": "tiger_lily",
+    "num_images": 45
+  },
+  {
+    "class_id": 6,
+    "category": 7,
+    "name": "moon orchid",
+    "folder": "moon_orchid",
+    "num_images": 40
+  },
+  {
+    "class_id": 7,
+    "category": 8,
+    "name": "bird of paradise",
+    "folder": "bird_of_paradise",
+    "num_images": 85
+  },
+  {
+    "class_id": 8,
+    "category": 9,
+    "name": "monkshood",
+    "folder": "monkshood",
+    "num_images": 46
+  },
+  {
+    "class_id": 9,
+    "category": 10,
+    "name": "globe thistle",
+    "folder": "globe_thistle",
+    "num_images": 45
+  },
+  {
+    "class_id": 10,
+    "category": 11,
+    "name": "snapdragon",
+    "folder": "snapdragon",
+    "num_images": 87
+  },
+  {
+    "class_id": 11,
+    "category": 12,
+    "name": "colt's foot",
+    "folder": "colt's_foot",
+    "num_images": 87
+  },
+  {
+    "class_id": 12,
+    "category": 13,
+    "name": "king protea",
+    "folder": "king_protea",
+    "num_images": 49
+  },
+  {
+    "class_id": 13,
+    "category": 14,
+    "name": "spear thistle",
+    "folder": "spear_thistle",
+    "num_images": 48
+  },
+  {
+    "class_id": 14,
+    "category": 15,
+    "name": "yellow iris",
+    "folder": "yellow_iris",
+    "num_images": 49
+  },
+  {
+    "class_id": 15,
+    "category": 16,
+    "name": "globe-flower",
+    "folder": "globe-flower",
+    "num_images": 41
+  },
+  {
+    "class_id": 16,
+    "category": 17,
+    "name": "purple coneflower",
+    "folder": "purple_coneflower",
+    "num_images": 85
+  },
+  {
+    "class_id": 17,
+    "category": 18,
+    "name": "peruvian lily",
+    "folder": "peruvian_lily",
+    "num_images": 82
+  },
+  {
+    "class_id": 18,
+    "category": 19,
+    "name": "balloon flower",
+    "folder": "balloon_flower",
+    "num_images": 49
+  },
+  {
+    "class_id": 19,
+    "category": 20,
+    "name": "giant white arum lily",
+    "folder": "giant_white_arum_lily",
+    "num_images": 56
+  },
+  {
+    "class_id": 20,
+    "category": 21,
+    "name": "fire lily",
+    "folder": "fire_lily",
+    "num_images": 40
+  },
+  {
+    "class_id": 21,
+    "category": 22,
+    "name": "pincushion flower",
+    "folder": "pincushion_flower",
+    "num_images": 59
+  },
+  {
+    "class_id": 22,
+    "category": 23,
+    "name": "fritillary",
+    "folder": "fritillary",
+    "num_images": 91
+  },
+  {
+    "class_id": 23,
+    "category": 24,
+    "name": "red ginger",
+    "folder": "red_ginger",
+    "num_images": 42
+  },
+  {
+    "class_id": 24,
+    "category": 25,
+    "name": "grape hyacinth",
+    "folder": "grape_hyacinth",
+    "num_images": 41
+  },
+  {
+    "class_id": 25,
+    "category": 26,
+    "name": "corn poppy",
+    "folder": "corn_poppy",
+    "num_images": 41
+  },
+  {
+    "class_id": 26,
+    "category": 27,
+    "name": "prince of wales feathers",
+    "folder": "prince_of_wales_feathers",
+    "num_images": 40
+  },
+  {
+    "class_id": 27,
+    "category": 28,
+    "name": "stemless gentian",
+    "folder": "stemless_gentian",
+    "num_images": 66
+  },
+  {
+    "class_id": 28,
+    "category": 29,
+    "name": "artichoke",
+    "folder": "artichoke",
+    "num_images": 78
+  },
+  {
+    "class_id": 29,
+    "category": 30,
+    "name": "sweet william",
+    "folder": "sweet_william",
+    "num_images": 85
+  },
+  {
+    "class_id": 30,
+    "category": 31,
+    "name": "carnation",
+    "folder": "carnation",
+    "num_images": 52
+  },
+  {
+    "class_id": 31,
+    "category": 32,
+    "name": "garden phlox",
+    "folder": "garden_phlox",
+    "num_images": 45
+  },
+  {
+    "class_id": 32,
+    "category": 33,
+    "name": "love in the mist",
+    "folder": "love_in_the_mist",
+    "num_images": 46
+  },
+  {
+    "class_id": 33,
+    "category": 34,
+    "name": "mexican aster",
+    "folder": "mexican_aster",
+    "num_images": 40
+  },
+  {
+    "class_id": 34,
+    "category": 35,
+    "name": "alpine sea holly",
+    "folder": "alpine_sea_holly",
+    "num_images": 43
+  },
+  {
+    "class_id": 35,
+    "category": 36,
+    "name": "ruby-lipped cattleya",
+    "folder": "ruby-lipped_cattleya",
+    "num_images": 75
+  },
+  {
+    "class_id": 36,
+    "category": 37,
+    "name": "cape flower",
+    "folder": "cape_flower",
+    "num_images": 108
+  },
+  {
+    "class_id": 37,
+    "category": 38,
+    "name": "great masterwort",
+    "folder": "great_masterwort",
+    "num_images": 56
+  },
+  {
+    "class_id": 38,
+    "category": 39,
+    "name": "siam tulip",
+    "folder": "siam_tulip",
+    "num_images": 41
+  },
+  {
+    "class_id": 39,
+    "category": 40,
+    "name": "lenten rose",
+    "folder": "lenten_rose",
+    "num_images": 67
+  },
+  {
+    "class_id": 40,
+    "category": 41,
+    "name": "barbeton daisy",
+    "folder": "barbeton_daisy",
+    "num_images": 127
+  },
+  {
+    "class_id": 41,
+    "category": 42,
+    "name": "daffodil",
+    "folder": "daffodil",
+    "num_images": 59
+  },
+  {
+    "class_id": 42,
+    "category": 43,
+    "name": "sword lily",
+    "folder": "sword_lily",
+    "num_images": 130
+  },
+  {
+    "class_id": 43,
+    "category": 44,
+    "name": "poinsettia",
+    "folder": "poinsettia",
+    "num_images": 93
+  },
+  {
+    "class_id": 44,
+    "category": 45,
+    "name": "bolero deep blue",
+    "folder": "bolero_deep_blue",
+    "num_images": 40
+  },
+  {
+    "class_id": 45,
+    "category": 46,
+    "name": "wallflower",
+    "folder": "wallflower",
+    "num_images": 196
+  },
+  {
+    "class_id": 46,
+    "category": 47,
+    "name": "marigold",
+    "folder": "marigold",
+    "num_images": 67
+  },
+  {
+    "class_id": 47,
+    "category": 48,
+    "name": "buttercup",
+    "folder": "buttercup",
+    "num_images": 71
+  },
+  {
+    "class_id": 48,
+    "category": 49,
+    "name": "oxeye daisy",
+    "folder": "oxeye_daisy",
+    "num_images": 49
+  },
+  {
+    "class_id": 49,
+    "category": 50,
+    "name": "common dandelion",
+    "folder": "common_dandelion",
+    "num_images": 92
+  },
+  {
+    "class_id": 50,
+    "category": 51,
+    "name": "petunia",
+    "folder": "petunia",
+    "num_images": 258
+  },
+  {
+    "class_id": 51,
+    "category": 52,
+    "name": "wild pansy",
+    "folder": "wild_pansy",
+    "num_images": 85
+  },
+  {
+    "class_id": 52,
+    "category": 53,
+    "name": "primula",
+    "folder": "primula",
+    "num_images": 93
+  },
+  {
+    "class_id": 53,
+    "category": 54,
+    "name": "sunflower",
+    "folder": "sunflower",
+    "num_images": 61
+  },
+  {
+    "class_id": 54,
+    "category": 55,
+    "name": "pelargonium",
+    "folder": "pelargonium",
+    "num_images": 71
+  },
+  {
+    "class_id": 55,
+    "category": 56,
+    "name": "bishop of llandaff",
+    "folder": "bishop_of_llandaff",
+    "num_images": 109
+  },
+  {
+    "class_id": 56,
+    "category": 57,
+    "name": "gaura",
+    "folder": "gaura",
+    "num_images": 67
+  },
+  {
+    "class_id": 57,
+    "category": 58,
+    "name": "geranium",
+    "folder": "geranium",
+    "num_images": 114
+  },
+  {
+    "class_id": 58,
+    "category": 59,
+    "name": "orange dahlia",
+    "folder": "orange_dahlia",
+    "num_images": 67
+  },
+  {
+    "class_id": 59,
+    "category": 60,
+    "name": "pink-yellow dahlia",
+    "folder": "pink-yellow_dahlia",
+    "num_images": 109
+  },
+  {
+    "class_id": 60,
+    "category": 61,
+    "name": "cautleya spicata",
+    "folder": "cautleya_spicata",
+    "num_images": 50
+  },
+  {
+    "class_id": 61,
+    "category": 62,
+    "name": "japanese anemone",
+    "folder": "japanese_anemone",
+    "num_images": 55
+  },
+  {
+    "class_id": 62,
+    "category": 63,
+    "name": "black-eyed susan",
+    "folder": "black-eyed_susan",
+    "num_images": 54
+  },
+  {
+    "class_id": 63,
+    "category": 64,
+    "name": "silverbush",
+    "folder": "silverbush",
+    "num_images": 52
+  },
+  {
+    "class_id": 64,
+    "category": 65,
+    "name": "californian poppy",
+    "folder": "californian_poppy",
+    "num_images": 102
+  },
+  {
+    "class_id": 65,
+    "category": 66,
+    "name": "osteospermum",
+    "folder": "osteospermum",
+    "num_images": 61
+  },
+  {
+    "class_id": 66,
+    "category": 67,
+    "name": "spring crocus",
+    "folder": "spring_crocus",
+    "num_images": 42
+  },
+  {
+    "class_id": 67,
+    "category": 68,
+    "name": "bearded iris",
+    "folder": "bearded_iris",
+    "num_images": 54
+  },
+  {
+    "class_id": 68,
+    "category": 69,
+    "name": "windflower",
+    "folder": "windflower",
+    "num_images": 54
+  },
+  {
+    "class_id": 69,
+    "category": 70,
+    "name": "tree poppy",
+    "folder": "tree_poppy",
+    "num_images": 62
+  },
+  {
+    "class_id": 70,
+    "category": 71,
+    "name": "gazania",
+    "folder": "gazania",
+    "num_images": 78
+  },
+  {
+    "class_id": 71,
+    "category": 72,
+    "name": "azalea",
+    "folder": "azalea",
+    "num_images": 96
+  },
+  {
+    "class_id": 72,
+    "category": 73,
+    "name": "water lily",
+    "folder": "water_lily",
+    "num_images": 194
+  },
+  {
+    "class_id": 73,
+    "category": 74,
+    "name": "rose",
+    "folder": "rose",
+    "num_images": 171
+  },
+  {
+    "class_id": 74,
+    "category": 75,
+    "name": "thorn apple",
+    "folder": "thorn_apple",
+    "num_images": 120
+  },
+  {
+    "class_id": 75,
+    "category": 76,
+    "name": "morning glory",
+    "folder": "morning_glory",
+    "num_images": 107
+  },
+  {
+    "class_id": 76,
+    "category": 77,
+    "name": "passion flower",
+    "folder": "passion_flower",
+    "num_images": 251
+  },
+  {
+    "class_id": 77,
+    "category": 78,
+    "name": "lotus",
+    "folder": "lotus",
+    "num_images": 137
+  },
+  {
+    "class_id": 78,
+    "category": 79,
+    "name": "toad lily",
+    "folder": "toad_lily",
+    "num_images": 41
+  },
+  {
+    "class_id": 79,
+    "category": 80,
+    "name": "anthurium",
+    "folder": "anthurium",
+    "num_images": 105
+  },
+  {
+    "class_id": 80,
+    "category": 81,
+    "name": "frangipani",
+    "folder": "frangipani",
+    "num_images": 166
+  },
+  {
+    "class_id": 81,
+    "category": 82,
+    "name": "clematis",
+    "folder": "clematis",
+    "num_images": 112
+  },
+  {
+    "class_id": 82,
+    "category": 83,
+    "name": "hibiscus",
+    "folder": "hibiscus",
+    "num_images": 131
+  },
+  {
+    "class_id": 83,
+    "category": 84,
+    "name": "columbine",
+    "folder": "columbine",
+    "num_images": 86
+  },
+  {
+    "class_id": 84,
+    "category": 85,
+    "name": "desert-rose",
+    "folder": "desert-rose",
+    "num_images": 63
+  },
+  {
+    "class_id": 85,
+    "category": 86,
+    "name": "tree mallow",
+    "folder": "tree_mallow",
+    "num_images": 58
+  },
+  {
+    "class_id": 86,
+    "category": 87,
+    "name": "magnolia",
+    "folder": "magnolia",
+    "num_images": 63
+  },
+  {
+    "class_id": 87,
+    "category": 88,
+    "name": "cyclamen",
+    "folder": "cyclamen",
+    "num_images": 154
+  },
+  {
+    "class_id": 88,
+    "category": 89,
+    "name": "watercress",
+    "folder": "watercress",
+    "num_images": 184
+  },
+  {
+    "class_id": 89,
+    "category": 90,
+    "name": "canna lily",
+    "folder": "canna_lily",
+    "num_images": 82
+  },
+  {
+    "class_id": 90,
+    "category": 91,
+    "name": "hippeastrum",
+    "folder": "hippeastrum",
+    "num_images": 76
+  },
+  {
+    "class_id": 91,
+    "category": 92,
+    "name": "bee balm",
+    "folder": "bee_balm",
+    "num_images": 66
+  },
+  {
+    "class_id": 92,
+    "category": 93,
+    "name": "ball moss",
+    "folder": "ball_moss",
+    "num_images": 46
+  },
+  {
+    "class_id": 93,
+    "category": 94,
+    "name": "foxglove",
+    "folder": "foxglove",
+    "num_images": 162
+  },
+  {
+    "class_id": 94,
+    "category": 95,
+    "name": "bougainvillea",
+    "folder": "bougainvillea",
+    "num_images": 128
+  },
+  {
+    "class_id": 95,
+    "category": 96,
+    "name": "camellia",
+    "folder": "camellia",
+    "num_images": 91
+  },
+  {
+    "class_id": 96,
+    "category": 97,
+    "name": "mallow",
+    "folder": "mallow",
+    "num_images": 66
+  },
+  {
+    "class_id": 97,
+    "category": 98,
+    "name": "mexican petunia",
+    "folder": "mexican_petunia",
+    "num_images": 82
+  },
+  {
+    "class_id": 98,
+    "category": 99,
+    "name": "bromelia",
+    "folder": "bromelia",
+    "num_images": 63
+  },
+  {
+    "class_id": 99,
+    "category": 100,
+    "name": "blanket flower",
+    "folder": "blanket_flower",
+    "num_images": 49
+  },
+  {
+    "class_id": 100,
+    "category": 101,
+    "name": "trumpet creeper",
+    "folder": "trumpet_creeper",
+    "num_images": 58
+  },
+  {
+    "class_id": 101,
+    "category": 102,
+    "name": "blackberry lily",
+    "folder": "blackberry_lily",
+    "num_images": 48
+  }
+]
