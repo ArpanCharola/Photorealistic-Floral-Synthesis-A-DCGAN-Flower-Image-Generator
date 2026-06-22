@@ -1,0 +1,32 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- ML artifacts (large / regenerable) ----
+ml/checkpoints/
+ml/data/
+ml/outputs/
+ml/runs/
+*.pth
+*.tar
+
+# Oxford 102 raw dataset (downloaded on demand)
+data/
+flowers-102/
+
+# ---- Node / NestJS / Angular ----
+node_modules/
+dist/
+.angular/
+*.log
+npm-debug.log*
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
